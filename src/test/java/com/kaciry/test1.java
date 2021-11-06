@@ -1,4 +1,5 @@
-package com.kaciry;/*
+package com.kaciry;
+/*
  * The MIT License (MIT)
  *
  * Copyright (c) 2014-2020 kaciry@126.com
